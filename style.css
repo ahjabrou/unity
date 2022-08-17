@@ -1,0 +1,24 @@
+body{
+    margin:100px;
+    text-align: justify;
+    background-color: cornflowerblue;
+ }
+img{
+    width: 200px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(255, 230, 0);
+    font-family: Georgia;
+    border: 1px solid;
+    width:auto;
+}
+h3{
+    margin-left: 50px;
+    color:darkkhaki
+}
+span{
+    font-weight: bolder;
+    border-style: groove;
+    background-color: azure;
+}
